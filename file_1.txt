@@ -1,8 +1,6 @@
 hello world! 
 
 Good bye !
-<<<<<<< HEAD
-good morning from add-feuture1
-=======
+
 Line from user2.
->>>>>>> fcd836c797cd681b2285b49802c86f9ae990bf2f
+
