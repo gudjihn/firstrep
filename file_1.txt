@@ -1,6 +1,4 @@
 hello world! 
-
 Good bye !
-Line from user 1
-
-Another file from user1
+Line from user2.
+Line from user2
